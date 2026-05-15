@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|solutionrelative:condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|c:\\users\\wagner\\source\\repos\\condicionais\\condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|c:\\users\\wagner\\source\\repos\\condicionais\\condicional\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|solutionrelative:condicional\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|C:\\Users\\Wagner\\source\\repos\\condicionais\\condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7790C88-FF14-E1C5-90DA-E1EC9F66B6A3}|Condicional\\Condicional.csproj|solutionrelative:condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,14 +32,27 @@
               "RelativeDocumentMoniker": "Condicional\\Form1.cs",
               "ToolTip": "C:\\Users\\Wagner\\source\\repos\\condicionais\\Condicional\\Form1.cs",
               "RelativeToolTip": "Condicional\\Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T14:38:29.9Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Wagner\\source\\repos\\condicionais\\Condicional\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Condicional\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\Wagner\\source\\repos\\condicionais\\Condicional\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Condicional\\Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:08:53.977Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Wagner\\source\\repos\\condicionais\\Condicional\\Form1.cs",
               "RelativeDocumentMoniker": "Condicional\\Form1.cs",
